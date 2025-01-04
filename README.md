@@ -22,3 +22,5 @@ a is alpha
 have 0-1 and a-f for different shade of colors
 
 alpha parameter is a number between 0.0 (fully transparent) to 1.0 (not transparent at all)
+
+linear-gradient()
